@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/bck5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#top_name{
+    padding: 25px 25px;
+    background-color: beige;
+}
+
+input{
+    padding: 10px 45px;
+    border: 1px solid #F0F0F0;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.user{
+    background-color: rgba(255,227,171,0.5);
+    padding: 45px 25px;
+    margin-top: 40px;
+}
+
+.btn{
+    padding: 10px 115px;
+    background-color: black;
+    color: white;
+}
+
+.btn:hover{
+    color: black;
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.stylespan{
+    padding-left: 5px;
+    padding-right: 25px;
+    color: red;
+}
+
+.datashowdiv{
+    padding: 25px 25px;
+    margin: 15px 0;
+    border: 1px solid grey;
+}
